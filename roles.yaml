@@ -1,0 +1,6 @@
+---
+#the general role means every user should get these accesses
+general:
+  #now list accesses
+  #access names should match respective script names
+  - github
